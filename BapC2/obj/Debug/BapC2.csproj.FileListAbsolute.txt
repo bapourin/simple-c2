@@ -1,0 +1,11 @@
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\bin\Debug\BapC2.exe.config
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\bin\Debug\BapC2.exe
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\bin\Debug\BapC2.pdb
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\obj\Debug\BapC2.csproj.AssemblyReference.cache
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\obj\Debug\BapC2.csproj.SuggestedBindingRedirects.cache
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\obj\Debug\BapC2.csproj.CoreCompileInputs.cache
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\obj\Debug\BapC2.exe
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\obj\Debug\BapC2.pdb
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RookieThaGawd\source\repos\BapC2\BapC2\obj\Debug\BapC2.csproj.CopyComplete
