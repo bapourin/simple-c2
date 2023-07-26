@@ -1,6 +1,7 @@
 # SimpleC2 - Command and Control
 
 This tool is made for sending commands from a remote server to your local cmd.
+Please keep in mind that this is not meant for production and is made as a simple example.
 
 # Usage
 - Upload all php files to your webserver/localhost.
@@ -12,7 +13,8 @@ This tool is made for sending commands from a remote server to your local cmd.
 > ![Send Commands](https://cdn.discordapp.com/attachments/1124063944986873948/1132104487662784562/image.png)
    ### Features
  - [x] 🔸 Remotely send commands from a webserver to the client.
- - [x] 🔸 Chose how many times you want to execute the command (Ex: 1 command: your_command)
+ - [x] 🔸 Chose how many times you want to execute the command (Ex: 1 command: your_command).
+ - [x] 🔸 Checks for a new command every 10 seconds.
 
 
 # Disclaimer
